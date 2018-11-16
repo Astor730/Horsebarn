@@ -1,4 +1,4 @@
-public abstract class Mustang implements Horse
+public class Mustang implements Horse
 {
     private int weight;
     private String name;
