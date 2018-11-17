@@ -19,6 +19,6 @@ public class HorseRunner
         barn.consolidate();
 
         System.out.println(barn);
-        System.out.println(" Dusty Trail is now in space" +barn.findHorseSpace("Dusty Trail"));
+        System.out.println(" Dusty Trail is now in space: " +barn.findHorseSpace("Dusty Trail"));
     }
 }
